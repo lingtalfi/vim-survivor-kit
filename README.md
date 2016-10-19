@@ -250,7 +250,7 @@ Related
 -------------
 - [vim decent navigation](https://github.com/lingtalfi/vim-decent-navigation)
 - [vim survivor kit](https://github.com/lingtalfi/vim-survivor-kit)
-- [vim refresher notes](https://github.com/lingtalfi/vim-refresher-notes)
+- [vim refresher notes](https://github.com/lingtalfi/vim-refresher)
 
 
 Sources
